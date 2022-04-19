@@ -11,7 +11,7 @@ You can also find the time and type of trip to visit a particular place.
 
 **This App uses a Heroku free plan, so I am afraid that it takes time to load the pages.**
 
-Check out [FRONTEND LIVE DEMO](https://arroundtheworld-frontend.herokuapp.com/) here!!
+Check out [FRONTEND LIVE DEMO](https://arroundtheworld035.netlify.app/) here!!
 
 
 ## Tech used
@@ -26,7 +26,7 @@ Check out [FRONTEND LIVE DEMO](https://arroundtheworld-frontend.herokuapp.com/) 
 1. Git Clone
 
 ```
-git clone git@github.com:Tech-i-s/techis-wd-forum-django-react.git
+git clone https://github.com/Aroundtheworld035/AroundtheWorld
 ```
 
 2. Backend setting
